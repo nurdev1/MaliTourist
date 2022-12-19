@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin-accueil",
+    "\\src\\app\\connexion",
+    "\\src\\app\\header",
+    "\\src\\app\\regions"
+  ],
+  "SelectedNode": "\\src\\app\\admin-accueil\\admin-accueil.component.html",
+  "PreviewInSolutionExplorer": false
+}
